@@ -14,7 +14,7 @@ To achieve this, an Exploratory Data Analysis (EDA) was performed on historical 
 * Data Visualization: Creating visualizations to effectively communicate the findings.
 
 ## Repository Contents 📁
-* Data: Raw and processed data files used in the analysis.
+Markdown file created in R to document the process used in the project it will show:
 * Scripts: R scripts for data gathering, preprocessing, analysis, and visualization.
 * Results: Output files, including visualizations and summary reports.
 
