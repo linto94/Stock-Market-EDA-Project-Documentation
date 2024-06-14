@@ -15,7 +15,7 @@ To achieve this, an Exploratory Data Analysis (EDA) was performed on historical 
 
 ## Repository Contents 📁
 Markdown file created in R to document the process used in the project it will show:
-* ***R Markdown output for project Documentation***: Show the HTML output file showing my process and methodlogy used in the project, including R scripts for data gathering, preprocessing, analysis,visualization and, also summary findings.
+* ***R Markdown output for project Documentation***: Show the HTML output file showing my process and methodology used in the project, including R scripts for data gathering, preprocessing, analysis, visualization and, also summary findings.
 
 # Conclusion 🚀
 This project provides valuable insights into stock market trends and patterns, which can aid in optimizing investment strategies and enhancing portfolio performance in the technology and financial service sectors.
